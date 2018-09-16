@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1536865065 source:f:\codes\codeblocks\queue\main.cpp
+	<iostream>
+	"queue.h"
+
+1536865028 f:\codes\codeblocks\queue\queue.h
+
